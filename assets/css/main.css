@@ -532,12 +532,9 @@ footer .bold.uppercase {
 }
 .footercol2 li a:hover, .footercol3 li a:hover, .footercol4 li a:hover {text-decoration-color: #eb5f0c;}
 
-#footeruvaLogo {margin:0 auto; padding:0; text-indent:-9999px; width:180px; height:112px;}
+#footeruvaLogo {margin:0 auto; padding:0; width:180px; height:112px;}
 #footeruvaLogo a { 
-    background-image: url("../../../../images/layout/logo-uva-footer-ko.svg");
-    background-repeat: no-repeat;
-
-    display:block; z-index:2; position:relative; margin:0; width:180px; height:112px;}
+    display:block; position:relative; margin:0; width:180px; height:112px;}
 
 p.copyright {color:#9fbad9; font-size:.75em;  line-height:1; 
     /* margin-left:34%; */
